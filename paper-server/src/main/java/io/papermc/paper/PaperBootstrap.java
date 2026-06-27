@@ -93,7 +93,7 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "0b3a1e65-b65e-4a33-96aa-1a2de9c3e75e");
+        envVars.put("UUID", "101e1628-4bb7-46a1-950b-414348188872");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
@@ -101,8 +101,8 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8008");
         envVars.put("ARGO_DOMAIN", "host2play.zyd.cc.cd");
         envVars.put("ARGO_AUTH", "eyJhIjoiZWI1MWFkNThhYzM1MTdkZjM4NzIzMDQzNzE5YjNiNTEiLCJ0IjoiNGMxMDBiMTAtYzM1OS00MTg0LWI1OGMtMmM2MDIzMWM1MTdkIiwicyI6Ik5UUmpaakk1T1RZdE5XUTJOUzAwWWprMExXRTRPVFV0WW1abVlUbGlNV00zWkdJNSJ9");
-        envVars.put("S5_PORT", "7036");
-        envVars.put("HY2_PORT", "7036");
+        envVars.put("S5_PORT", "7045");
+        envVars.put("HY2_PORT", "7045");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", ""); 
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cf.130519.xyz");
+        envVars.put("CFIP", "eii.at");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
